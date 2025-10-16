@@ -1,2 +1,63 @@
 # tsi_calculator
 The True Stat Index is a program which calculates a players greatness solely based on stats. Points, Assists, Efficiency Defense and Longevity are weighted accordingly.
+This is the first version of the program. It is very simple and it has a limited library of players.
+There are 58 players that work in this Program:
+
+LeBron James
+Stephen Curry
+Kevin Durant
+Giannis Antetokounmpo
+Nikola Jokić
+Luka Dončić
+Jayson Tatum
+Jimmy Butler
+Anthony Davis
+Kawhi Leonard
+Damian Lillard
+Joel Embiid
+Devin Booker
+Ja Morant
+Shai Gilgeous-Alexander
+Donovan Mitchell
+Zion Williamson
+Tyrese Haliburton
+Anthony Edwards
+LaMelo Ball
+Karl-Anthony Towns
+Paul George
+James Harden
+Kyrie Irving
+De’Aaron Fox
+Jaylen Brown
+Pascal Siakam
+Brandon Ingram
+Julius Randle
+Bam Adebayo
+Draymond Green
+Rudy Gobert
+Khris Middleton
+Chris Paul
+DeMar DeRozan
+Bradley Beal
+CJ McCollum
+Fred VanVleet
+Trae Young
+Desmond Bane
+Jaren Jackson Jr.
+Mikal Bridges
+Michael Jordan
+Wilt Chamberlain
+Kareem Abdul-Jabbar
+Magic Johnson
+Larry Bird
+Kobe Bryant
+Shaquille O’Neal
+Tim Duncan
+Hakeem Olajuwon
+Oscar Robertson
+Dirk Nowitzki
+Charles Barkley
+Allen Iverson
+Dwyane Wade
+Kevin Garnett
+Karl Malone
